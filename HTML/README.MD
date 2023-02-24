@@ -6,7 +6,14 @@ It will be brief since there is nothing much abot HTML. Hope it can help you to 
 
 ## What is HTML?
 
-## Tricks
+## Contents
+
+### Chapter 1: History of HTML
+
+### Chapter 2: Elementary of  HTML
+
+### Chapter 3: HTML Structures
+
 
 ## Best Practice
 
