@@ -14,6 +14,7 @@ Hello, I've been very interested in learning about Computer Science since elemen
 6. [Learning How to Learn - Provide in Bahasa](https://algonacci.notion.site/Learning-how-to-learn-6a8e67be770d46f084a123f4cf04621d)
 7. [Exercism](https://exercism.org/dashboard)
 8. [EbookFoundation - free programming books](https://github.com/EbookFoundation/free-programming-books)
+9. [Stanford's Computer Science 101](https://online.stanford.edu/courses/soe-ycscs101-computer-science-101)
 ## Directory
 
 - [Algorithms and Data Structures](/Algorithm-and-Data-Structures/README.md)
