@@ -6,6 +6,7 @@
 - [Algorithm Design](/Algorithm-and-Data-Structures/algorithm-design.md)
 - [Algorithm Part](/Algorithm-and-Data-Structures/algorithm-design.md)
 - [Algorithm Building Blocks](/Algorithm-and-Data-Structures/algorithm-design.md)
+- [Data Structures](/Algorithm-and-Data-Structures/DSA.md)
 
 ## **Algorithm**
 
